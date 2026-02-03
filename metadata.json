@@ -1,0 +1,8 @@
+{
+  "name": "Dra. Jéssica Motta - CRM Produção",
+  "description": "Sistema de gestão e CRM personalizado para a Clínica de Estética Avançada Dra. Jéssica Motta.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
